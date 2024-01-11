@@ -174,3 +174,4 @@ npm run test:functional
 [chrome-tab-rotate-github]: https://github.com/KevinSheedy/chrome-tab-rotate
 [chilipie-kiosk-github]: https://github.com/futurice/chilipie-kiosk
 [chromium-project]: https://www.chromium.org/
+
